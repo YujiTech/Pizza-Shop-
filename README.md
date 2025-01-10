@@ -2,4 +2,4 @@
 
   Pizza is a fully responsive website, <br />Pizza Shop-Website-Using-HTML-CSS-and-JavaScript.    
   
-  <a href="https://yujitech.github.io/Responsive-Pizza-Shop-Website-Using-HTML-CSS-and-JavaScript/"><strong>➥ Live Demo</strong></a> 
+  <a href="https://pizza-shop-2fl1ayggm-yujitechs-projects.vercel.app"><strong>➥ Live Demo</strong></a>  
